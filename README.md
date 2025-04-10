@@ -11,7 +11,7 @@ This project is a Python-based tool for detecting a person's skin tone and under
 
 ---
 
-## ✨ Features
+## Features
 
 - Uses **Dlib** to detect face and 68 facial landmarks.
 - Masks non-skin regions (eyes, lips, brows) to isolate skin.
@@ -22,7 +22,7 @@ This project is a Python-based tool for detecting a person's skin tone and under
 
 ---
 
-## 🖼️ Output Example
+## Output Example
 
 Displays:
 - Original cropped face
@@ -31,7 +31,7 @@ Displays:
 
 ---
 
-## 🛠️ Requirements
+##  Requirements
 
 - Python 3.7+
 - OpenCV
