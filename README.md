@@ -2,10 +2,6 @@
 A Python-based skin tone and undertone detection tool using facial landmarks and KMeans clustering with Dlib and OpenCV.
 
 
-# Generate a README.md file for the skin tone detector project
-
-readme_content = """\
-# Skin Tone & Undertone Detector
 
 This project is a Python-based tool for detecting a person's skin tone and undertone using facial landmarks, OpenCV, and KMeans clustering in the LAB color space. It masks out facial features like eyes, lips, and eyebrows to isolate skin regions for more accurate classification.
 
